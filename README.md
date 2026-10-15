@@ -31,3 +31,7 @@ Static site, no build step. GitHub Pages serves this branch from the repository 
     git push
 
 The site refreshes about a minute after a push.
+
+## Also on this site
+
+- `mary-celeste/` — The Mary Celeste, 1872: https://kabanec.github.io/kurzeme-1945/mary-celeste/
